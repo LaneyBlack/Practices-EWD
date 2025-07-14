@@ -1,4 +1,4 @@
-# Practises EWD (Estymacja i Wizualizacja Danych) 🎶📊
+# Practises EWD (Estimation and Visualisation of Data) 🎶📊
 
 This repository contains a collection of data science practices and a major project focused on **estimating song popularity** using a dataset of 1 million tracks. All exercises and the main project were completed as part of the Estymacja i Wizualizacja Danych (Estimation and Data Visualization) course.
 
